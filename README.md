@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Harikiran</h1>
 <h3 align="center">Aspiring Data Analyst</h3>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*2fBIH8UQ8qij8fE7.jpg"
+<img align="right" alt="coding" width="300" src="https://miro.medium.com/v2/resize:fit:720/format:webp/0*2fBIH8UQ8qij8fE7.jpg"
 
 - 🔭 I’m currently working on [Picking the best Player for Fantasy Cricket](https://github.com/harikiranadangi/dream11-ipl-player-prediction)
 
