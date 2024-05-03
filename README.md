@@ -16,7 +16,7 @@
 <a href="https://linkedin.com/in/hari-kiran-adangi-b3b568128" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hari-kiran-adangi-b3b568128" height="30" width="40" /></a>
 <a href="https://kaggle.com/harikirantheanalyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="harikirantheanalyst" height="30" width="40" /></a>
 <a href="https://instagram.com/harikiranikee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harikiranikee" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/the analyst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="the analyst" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/ucvqbvjaw0cxeh7opmxpgbfg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucvqbvjaw0cxeh7opmxpgbfg" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/harikiranikee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harikiranikee" height="30" width="40" /></a>
 </p>
 
