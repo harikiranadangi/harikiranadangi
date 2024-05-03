@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**harikiranadangi/harikiranadangi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Hari Kiran Adangi, a Certified Data Science Professional passionate about leveraging data to drive insights and solutions. My skills include data analysis, exploratory data analysis (EDA), data manipulation, and data visualization using Python, SQL, and Power BI. 
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on honing my skills in statistical analysis and machine learning.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning advanced techniques in machine learning and deep learning.
+
+- 👯 I’m looking to collaborate on projects involving data analysis, machine learning, and data visualization.
+
+- 💬 Ask me about anything related to data analytics, Python programming, or Power BI!
+
+- 📫 How to reach me: Feel free to connect with me on [LinkedIn](linkedin.com/in/hari-kiran-adangi-b3b568128/).
+
+- 😄 Pronouns: He/Him
+
+- ⚡ Fun fact: I love exploring new hiking trails in my free time!
