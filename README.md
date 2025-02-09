@@ -5,7 +5,7 @@
 </header>
 
 - 🔭 **Currently Working On:**  
-  - **[Student Attendance & Fee Analysis](https://github.com/harikiranadangi/PowerBI-School-Dashboard)** – Analyzing school attendance trends, fees collection, and student engagement using **Power BI & MySQL**  
+  - **[Student DBMS](https://github.com/harikiranadangi/PowerBI-School-Dashboard)** – Analyzing school attendance trends, fees collection, and student engagement using **Power BI & MySQL**  
   - **[Fantasy Cricket Player Prediction](https://github.com/harikiranadangi/dream11-ipl-player-prediction)** – Using **Python & Machine Learning** to optimize fantasy cricket team selection  
 
 - 🌱 **Currently Learning:**  
